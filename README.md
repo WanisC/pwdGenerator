@@ -16,6 +16,7 @@ Les mots de passe générés contiennent certaines conditions:
 ```bash
 python main.py
 ```
+Cela génèrera un mot de passe de 30 caractères, modifiez le paramètre donné à la méthode dans le fichier `main.py` pour une longueur différente.
 
 ## Résistance
 
